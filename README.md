@@ -1,4 +1,4 @@
-# STARTER-jpa02
+# jpa02-chengyanwu
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
