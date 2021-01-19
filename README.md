@@ -3,19 +3,9 @@ https://github.com/ucsb-cs156-w21/jpa02-chengyanwu
 
 Repo: https://ucsb-cs156-f20/STARTER-jpa02
 
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://cs156-f20-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-chengyanwu.herokuapp.com
 
-
-On Heroku: https://cs156-f20-jpa02-cgaucho.herokuapp.com
-
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-f20/jpa02-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-chengyanwu
 
 
 # About this repo
